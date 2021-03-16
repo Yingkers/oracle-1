@@ -12,7 +12,7 @@
 
 ## 教材中的查询语句
 
-查询1：
+- 查询1：
 
 ```SQL
 set autotrace on
